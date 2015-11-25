@@ -25,7 +25,6 @@
     "commit": "5e9841f624abcb3d22aa8fb1a2dac74088e3ed46"
   },
   "_source": "git://github.com/Evilzebra/liquidfun-bower.git",
-  "_target": "~1.1.0",
-  "_originalSource": "liquidfun",
-  "_direct": true
+  "_target": "1.1.0",
+  "_originalSource": "liquidfun"
 }

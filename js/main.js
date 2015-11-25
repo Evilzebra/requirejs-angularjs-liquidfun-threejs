@@ -10,7 +10,7 @@ require.config({
         'angular-bootstrap': './lib/angular-bootstrap/ui-bootstrap-tpls',
 
         'domReady': './lib/requirejs-domready/domReady',
-        'THREE': './lib/three.js/build/three.min',
+        'THREE': './lib/threejs/build/three.min',
         'liquidfun': './lib/liquidfun/liquidfun'
     },
 

@@ -1,0 +1,20 @@
+{
+  "name": "requirejs-angularjs-liquidfun-threejs",
+  "version": "0.1.0",
+  "main": "index.html",
+  "ignore": [
+    ".bowerrc",
+    "bower.json"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-bootstrap": "~0.14.3",
+    "angular-route": "~1.5.0",
+
+    "requirejs": "~2.1.22",
+    "requirejs-domready": "~2.0.1",
+
+    "threejs": "r66",
+    "liquidfun": "1.1.0"
+  }
+}
