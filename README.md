@@ -1,10 +1,12 @@
 # About
-A seed app combining RequireJS, AngularJS and LiquidFun all rendered with three.js.
+A seed app combining RequireJS, AngularJS, LiquidFun and three.js.
+
+You can <a href="http://evilzebra.github.io/requirejs-angularjs-liquidfun-threejs/">see this repo in action here</a>.
 
 Used <a href="https://github.com/StarterSquad/startersquad.com/tree/master/examples/angularjs-requirejs-2">angularjs-requirejs-2 repository<a/> to get started with RequireJS + AngularJS and basically just implemented the core of the LiquidFun example page.
 
 # Installation
-    git clone git@github.com:Evilzebra/requirejs-angularjs-liquidfun-threejs.git
+    git clone https://github.com/Evilzebra/requirejs-angularjs-liquidfun-threejs.git
 
 # Updating Dependencies
     cd requirejs-angularjs-liquidfun-threejs
