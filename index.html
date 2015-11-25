@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <title>RequireJS + AngularJS + LiquidFun + three.js</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="" crossorigin="anonymous">
+
+        <style type="text/css">
+            html, body, div.container{height:100%;}
+            body{margin:0;overflow:hidden;}
+        </style>
+    </head>
+    <!-- use data-ng-view instead of ng-app and we bootstrap angular -->
+    <body data-ng-view>
+        <script src="js/lib/requirejs/require.js" data-main="js/main.js"></script>
+    </body>
+</html>

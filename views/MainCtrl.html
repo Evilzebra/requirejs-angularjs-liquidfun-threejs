@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="row" style="height:5%;">
+        <div class="col-sm-4">
+            Particle Count: <strong>{{particleCount}}</strong>
+        </div>
+        <div class="col-sm-4">
+            Group Size: <input ng-model="settings.groupRadius" />
+        </div>
+        <div class="col-sm-4">
+            <button type="button" class="btn btn-primary" ng-click="openManageFlags()">Set Flags</button>
+        </div>
+    </div>
+
+    <div class="row" style="height:95%;" data-render-container></div>
+</div>
