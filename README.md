@@ -7,6 +7,8 @@ Used <a href="https://github.com/StarterSquad/startersquad.com/tree/master/examp
 
 # Installation
     git clone https://github.com/Evilzebra/requirejs-angularjs-liquidfun-threejs.git
+    
+or download <a href="https://github.com/Evilzebra/requirejs-angularjs-liquidfun-threejs/releases">latest zip / tarball</a>.
 
 # Updating Dependencies
     cd requirejs-angularjs-liquidfun-threejs
